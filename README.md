@@ -18,3 +18,15 @@ List of good math books for kids (of all ages)
 * How to Lie with Statistics
  * Thanks Lee Frank
  * http://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728
+
+* A Transition to Advanced Mathematics
+ http://books.google.com.br/.../A_Transition_to_Advanced...
+
+  * I (Ben) highly recommend this, though it is not about "filling the gap" after calculus (despite the description). The subject material (in the edition I own) is simple stuff: basic algebra (i.e. arithmetic axioms), graph theory, some logic, maybe some computation theory. The point isn't how deep or complex the subjects are, but the focus on mathematical proofs.  For sure there is coverage of proof by induction.
+
+* "Innumeracy" by John Alan Paulos and his follow up, "Beyond Numeracy".
+* 
+
+* Yaglom&Yaglom's "Challenging Mathematical Problems with Elementary Solutions" (vol 1 and 2)
+  * This has hints and solutions: excellent for a motivated reader. Also for lazy readers like me, it exposes how much can be done with brain sweat and methodical persistence. 
+  *   http://www.amazon.com/Challenging-Mathematical-Problems-Elementary-Solutions-ebook/dp/B00C59C6IS/ref=sr_1_2?ie=UTF8&qid=1405181644&sr=8-2&keywords=yaglom
